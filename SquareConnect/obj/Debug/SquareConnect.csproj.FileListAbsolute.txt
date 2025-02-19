@@ -1,0 +1,28 @@
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\bin\Debug\SquareConnect.exe.config
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\bin\Debug\SquareConnect.exe
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\bin\Debug\SquareConnect.pdb
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\obj\Debug\SquareConnect.csprojAssemblyReference.cache
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\obj\Debug\SquareConnect.Form1.resources
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\obj\Debug\SquareConnect.Properties.Resources.resources
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\obj\Debug\SquareConnect.csproj.GenerateResource.cache
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\obj\Debug\SquareConnect.exe
+C:\Users\Alexandru Amarinei\source\repos\SquareConnect\SquareConnect\obj\Debug\SquareConnect.pdb
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\bin\Debug\SquareConnect.exe.config
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\bin\Debug\SquareConnect.exe
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\bin\Debug\SquareConnect.pdb
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\obj\Debug\SquareConnect.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\obj\Debug\SquareConnect.Form1.resources
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\obj\Debug\SquareConnect.Properties.Resources.resources
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\obj\Debug\SquareConnect.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\obj\Debug\SquareConnect.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\obj\Debug\SquareConnect.exe
+C:\Users\Asus\Downloads\SquareConnect\SquareConnect\obj\Debug\SquareConnect.pdb
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\bin\Debug\SquareConnect.exe.config
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\bin\Debug\SquareConnect.exe
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\bin\Debug\SquareConnect.pdb
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\obj\Debug\SquareConnect.csprojAssemblyReference.cache
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\obj\Debug\SquareConnect.Form1.resources
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\obj\Debug\SquareConnect.Properties.Resources.resources
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\obj\Debug\SquareConnect.csproj.GenerateResource.cache
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\obj\Debug\SquareConnect.exe
+C:\Users\Alexandru Amarinei\Desktop\SquareConnect\SquareConnect\obj\Debug\SquareConnect.pdb
