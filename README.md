@@ -56,9 +56,7 @@ The game is built with a modular architecture:
   - Observer
   - Factory Method
 
-## Getting Started
 
-[Instructions for setup and running the game to be added]
 
 ## UML Diagram
 
@@ -72,6 +70,4 @@ The game is built with a modular architecture:
 - [DoFactory - Decorator Pattern](https://www.dofactory.com/net/decorator-design-pattern)
 - [DoFactory - Builder Pattern](https://www.dofactory.com/net/builder-design-pattern)
 
-## License
 
-[License information to be added]
