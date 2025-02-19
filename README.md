@@ -57,11 +57,6 @@ The game is built with a modular architecture:
   - Factory Method
 
 
-
-## UML Diagram
-
-[UML diagram to be added]
-
 ## References
 
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns)
